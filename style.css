@@ -19,7 +19,7 @@ body {
 }
 
 .header {
-    font-size: 18px;
+    font-size: 24px;
     font-weight: 700;
 }
 
@@ -31,6 +31,7 @@ body {
     padding-bottom: 100px;
     margin: auto auto;
     justify-content: space-between;
+    align-items: center;
     width: 1000px;
 }
 
@@ -39,7 +40,7 @@ body {
     display: flex;
     gap: 50px;
     padding-bottom: 100px;
-    border: red shauihfdiu2px solid;
+    border: red 2px solid;
 }
 
 .links-list {
