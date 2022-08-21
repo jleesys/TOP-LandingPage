@@ -26,7 +26,7 @@ body {
 .header-block {
     display: flex;
     flex-flow: row;
-    border: 2px red solid;
+    /* border: 2px red solid; */
     background: #1F2937;
     padding-bottom: 100px;
     margin: auto auto;
@@ -40,7 +40,7 @@ body {
     display: flex;
     gap: 50px;
     padding-bottom: 100px;
-    border: red 2px solid;
+    /* border: red 2px solid; */
 }
 
 .links-list {
@@ -63,7 +63,7 @@ body {
 .text-block-top {
     display: flex;
     flex-flow: column;
-    border: red 2px solid;
+    /* border: red 2px solid; */
     width: 400px;
 }
 
