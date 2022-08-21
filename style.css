@@ -28,18 +28,18 @@ body {
     flex-flow: row;
     border: 2px red solid;
     background: #1F2937;
-    justify-content: space-around;
-    align-items: center;
     padding-bottom: 100px;
+    margin: auto auto;
+    justify-content: space-between;
+    width: 1000px;
 }
 
 .top-block-display {
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   gap: 50px;
-   padding-bottom: 100px;
-    border: red 2px solid;
+    margin: auto auto;
+    display: flex;
+    gap: 50px;
+    padding-bottom: 100px;
+    border: red shauihfdiu2px solid;
 }
 
 .links-list {
