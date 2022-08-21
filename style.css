@@ -75,6 +75,10 @@ body {
     padding: 7px 7px;
     font-weight: 700;
 }
+.sign-up:hover {
+    color: black;
+    background: white;
+}
 
 .text-block-top-header {
     justify-self: flex-start;
