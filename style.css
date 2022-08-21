@@ -26,11 +26,20 @@ body {
 .header-block {
     display: flex;
     flex-flow: row;
-    /* border: 2px red solid; */
+    border: 2px red solid;
     background: #1F2937;
     justify-content: space-around;
     align-items: center;
     padding-bottom: 100px;
+}
+
+.top-block-display {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 50px;
+   padding-bottom: 100px;
+    border: red 2px solid;
 }
 
 .links-list {
@@ -45,14 +54,6 @@ body {
     color: white;
 }
 
-.top-block-display {
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   gap: 50px;
-   padding-bottom: 100px;
-}
-
 .top-block-text {
     width: 300px;
     margin-bottom: 16px;
@@ -61,7 +62,7 @@ body {
 .text-block-top {
     display: flex;
     flex-flow: column;
-    /* border: red 2px solid; */
+    border: red 2px solid;
     width: 400px;
 }
 
