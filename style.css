@@ -1,6 +1,6 @@
 .main-image {
-    width: 440px;
-    height: 250px;
+    width: 480px;
+    height: 280px;
     border-radius: 5px;
 }
 
@@ -109,5 +109,12 @@ body {
 }
 
 .sub-1, .sub-2, .sub-3, .sub-4 {
+    border: green 2px solid;
     width: 200px;
+    display: flex;
+    flex-flow: column;
+}
+
+.sub-1, .sub-2, .sub-3, .sub-4  div {
+    text-align: center;
 }
