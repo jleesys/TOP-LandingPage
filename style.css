@@ -83,6 +83,7 @@ body {
     padding: 7px 7px;
     font-weight: 700;
 }
+
 .sign-up:hover {
     color: black;
     background: white;
@@ -94,7 +95,7 @@ body {
 }
 
 .information-block {
-    display:flex;
+    display: flex;
     flex-flow: column;
     align-items: center;
     gap: 20px;
@@ -111,14 +112,20 @@ body {
     padding-bottom: 100px;
 }
 
-.sub-1, .sub-2, .sub-3, .sub-4 {
+.sub-1,
+.sub-2,
+.sub-3,
+.sub-4 {
     /* border: green 2px solid; */
     width: 200px;
     display: flex;
     flex-flow: column;
 }
 
-.sub-1, .sub-2, .sub-3, .sub-4  div {
+.sub-1,
+.sub-2,
+.sub-3,
+.sub-4 div {
     text-align: center;
 }
 
@@ -149,5 +156,36 @@ body {
 }
 
 .bottom-block {
-    flex: display;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    /* border: 2px red solid; */
+}
+
+.window {
+    display: flex;
+    justify-content: space-between;
+    background: #3882F6;
+    width: 720px;
+
+    padding: 44px;
+    padding-left: 84px;
+    padding-right: 84px;
+
+    border-radius: 8px;
+    color: white;
+    /* border: 2px red solid; */
+    font-size: 15px;
+}
+
+.window-text {
+    /* border: 2px red solid; */
+}
+
+#call-to-action-header {
+    font-weight: 700;
+    font-size: 19px;
+    margin: 0;
+    padding: 0;
 }
