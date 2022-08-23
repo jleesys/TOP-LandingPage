@@ -80,8 +80,28 @@ body {
     color: white;
     border-radius: 5px;
     width: 120px;
+    height: 32px;
     padding: 7px 7px;
     font-weight: 700;
+}
+
+.sign-up-2 {
+    background: #3882F6;
+    color: white;
+    border-radius: 5px;
+    width: 120px;
+    height: 32px;
+    padding: 7px 7px;
+    font-weight: 700;
+    flex: 0 0 auto;
+    align-self: flex-end;
+
+    border: 2px solid white;
+}
+
+.sign-up-2:hover {
+    color: black;
+    background: white;
 }
 
 .sign-up:hover {
