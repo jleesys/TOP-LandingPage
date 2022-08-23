@@ -179,7 +179,7 @@ body {
     display: flex;
     justify-content: center;
     padding-top: 100px;
-    padding-bottom: 80px;
+    padding-bottom: 100px;
     /* border: 2px red solid; */
 }
 
@@ -201,11 +201,25 @@ body {
 
 .window-text {
     /* border: 2px red solid; */
+    font-weight: 100;
 }
 
 #call-to-action-header {
     font-weight: 700;
     font-size: 19px;
     margin: 0;
+    margin-bottom: 3px;
     padding: 0;
+}
+
+.footer-block {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 24px;
+
+    background: #1F2937;
+    color: white;
+    font-weight: 240;
+    text-align: center;
 }
