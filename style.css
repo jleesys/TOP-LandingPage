@@ -137,7 +137,7 @@ body {
 }
 
 .quote-text {
-    font-size: 36px;
+    font-size: 32px;
     color: #1F2937;
     font-weight: 300;
 }
@@ -146,4 +146,8 @@ body {
     font-size: 20px;
     font-weight: 700;
     align-self: flex-end;
+}
+
+.bottom-block {
+    flex: display;
 }
