@@ -83,6 +83,8 @@ body {
     height: 32px;
     padding: 7px 7px;
     font-weight: 700;
+
+    border-style: none;
 }
 
 .sign-up-2 {
