@@ -1,6 +1,8 @@
 # TOP-LandingPage 
 The Odin Project - Landing Page  
 
+Check it out! 
+https://jleesys.github.io/TOP-LandingPage/index.html
 
 Image credits:  
 Main image:
